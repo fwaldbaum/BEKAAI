@@ -3,8 +3,8 @@ from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, fil
 import requests
 
 # 🔑 REEMPLAZA ESTO
-TELEGRAM_TOKEN = "PON_TU_TOKEN_AQUI"
-GEMINI_API_KEY = "PON_TU_API_GEMINI"
+TELEGRAM_TOKEN = "8225336689:AAHYnNgF-PGmI9JNMlATTQakuQOGMhix1Rw"
+GEMINI_API_KEY = "AQ.Ab8RN6KVSNhK_6ibVhODsk2j28ZwYUOUjGaZxQp_NJORM9Zseg"
 
 # 👤 Usuarios y contraseñas
 usuarios = {
